@@ -8,3 +8,9 @@ In this project, I explored the dynamic landscape of content consumption and the
 
 I transformed raw data into meaningful visualizations, allowing people to make data-driven decisions in the fast-paced world of streaming. 💼🌐
 Excited to share the journey of turning data into actionable insights in the entertainment space. 
+![](https://github.com/cd2008/World-of-Netflix/blob/main/won2.png)
+
+🚀 Let's connect and chat about the fascinating world of data analytics and streaming trends! 🤝🔍
+![](https://github.com/cd2008/World-of-Netflix/blob/main/won3.png)
+
+#PowerBI #DataAnalytics #Netflix #DataVisualization #AnalyticsInAction Netflix #netflixandchill
